@@ -1,4 +1,4 @@
-# ClaimsPulse — Healthcare Insurance Analytics Dashboard
+# ClaimsPulse - Healthcare Insurance Analytics Dashboard
 
 ClaimsPulse is a professional analytics dashboard that transforms raw healthcare insurance claims data into actionable insights for leadership and operations teams.
 
